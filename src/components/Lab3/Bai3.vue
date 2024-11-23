@@ -3,8 +3,7 @@
       <div class="container-fluid">
         <a class="navbar-brand" href="#">
              <img src="@/assets/logo-energy-pilates.png" alt="Logo" style="width: 150px"  />
-             <!-- <link rel="stylesheet" href="css/bootstrap.min.css">
-             <script src="js/bootstrap.min.js"></script> -->
+             
         </a>
         
         <button
@@ -100,7 +99,7 @@
             <div class="card-body">
                 <div class="row my-1">
                     <div class="col-4">
-                        <img src="images/corevalue.jpg" class="img-fluid" alt="..." />
+                        <img src="assets/corevalue.jpg" class="img-fluid" alt="..." />
                     </div>
                     <div class="col-8">
                         <h5 class="card-title">Biết ơn đời, đời sẽ thương ta</h5>
@@ -109,7 +108,7 @@
                 </div>
                 <div class="row my-1">
                     <div class="col-4">
-                        <img src="images/orange_300x300.jpg" class="img-fluid" alt="..." />
+                        <img src="assets/orange_300x300.jpg" class="img-fluid" alt="..." />
                     </div>
                     <div class="col-8">
                         <h5 class="card-title">9 tác dụng tuyệt vời của cam</h5>
@@ -118,7 +117,7 @@
                 </div>
                 <div class="row my-1">
                     <div class="col-4">
-                        <img src="images/sesameoil_300x300.jpg" class="img-fluid" alt="..." />
+                        <img src="assets/sesameoil_300x300.jpg" class="img-fluid" alt="..." />
                     </div>
                     <div class="col-8">
                         <h5 class="card-title">10 công dụng bất ngờ của dầu dừa</h5>
@@ -136,7 +135,7 @@
                     <div class="card mb-3">
                         <div class="card-header">Phương pháp tập Pilates giúp phục hồi chấn thương cột sống <i class="fa-solid fa-message"></i> 16</div>
                         <div class="card-body">
-                            <img src="images/tap-piltes.jpg" class="img-fluid" alt="..." />
+                            <img src="assets/tap-piltes.jpg" class="img-fluid" alt="..." />
                             <p class="card-text">Ngoài việc giúp duy trì vóc dáng, cải thiện sự linh hoạt, dẻo dai cho người tập, Pilates giúp cơ bắp và các khớp mọc dài hơn, kéo gần hơn...</p>
                         </div>
                     </div>
@@ -145,7 +144,7 @@
                     <div class="card mb-3">
                         <div class="card-header">Phương pháp tập Pilates giúp phục hồi chấn thương cột sống <i class="fa-solid fa-message"></i> 16</div>
                         <div class="card-body">
-                            <img src="images/tap-pilates1.jpg" class="img-fluid" alt="..." />
+                            <img src="assets/tap-pilates1.jpg" class="img-fluid" alt="..." />
                             <p class="card-text">Được thiết kế để xây dựng cơ bắp săn chắc, khỏe mạnh hơn, bài tập này đã trở thành một cái tên quen thuộc nhờ có nhiều người nổi tiếng theo dõi.</p>
                         </div>
                     </div>
@@ -154,7 +153,7 @@
                     <div class="card mb-3">
                         <div class="card-header">Phương pháp tập Pilates giúp phục hồi chấn thương cột sống <i class="fa-solid fa-message"></i> 16</div>
                         <div class="card-body">
-                            <img src="images/tim-mach.jpg" class="img-fluid" alt="..." />
+                            <img src="assets/tim-mach.jpg" class="img-fluid" alt="..." />
                             <p class="card-text">Tập pilates không chỉ giúp bạn có một cơ thể khỏe mạnh và linh hoạt mà còn nhiều lợi ích cho sức khỏe tim mạch. Bài viết này sẽ tìm hiểu sâu hơn về tác động tích cực của việc tập pilates đối với sức khỏe tim mạch.</p>
                         </div>
                     </div>
@@ -163,7 +162,7 @@
                     <div class="card mb-3">
                         <div class="card-header">Phương pháp tập Pilates giúp phục hồi chấn thương cột sống <i class="fa-solid fa-message"></i> 16</div>
                         <div class="card-body">
-                            <img src="images/eat-clean.png" class="img-fluid" alt="..." />
+                            <img src="assets/eat-clean.png" class="img-fluid" alt="..." />
                             <p class="card-text">Chúng ta luôn chú trọng lựa chọn thực phẩm sạch và duy trì lối sống lành mạnh. Vậy chế độ ăn Eat clean nên và không nên ăn gì trong thực đơn hàng ngày để cân bằng tháp dinh dưỡng cho cơ thể.</p>
                         </div>
                     </div>

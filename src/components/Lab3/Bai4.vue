@@ -3,7 +3,7 @@
             <div class="col-sm-6">
                 <h2 class="text-info mb-4 text-center">Phương pháp tập Pilates giúp phục hồi chấn thương cột sống</h2>
                 <div class="card" style="width: 40rem;">
-                    <img src="images/tap-pilates1.jpg" class="card-img-top" alt="...">
+                    <img src="assets/tap-pilates1.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                       <p class="card-text">Tập Pilates có thể vẫn còn khá xa lạ với người Việt, nhưng tại các nước phương Tây thì đây chính là phương 
                         pháp tập thể dục giúp duy trì vóc dáng, tăng cường ý chỉ và cải thiện sự linh hoạt, dẻo dai cho người tập. Đặc biệt, các bài 
@@ -12,7 +12,7 @@
                     </p>
                     </div>
                     <h2>Pilates giúp phục hồi chấn thương cột sống nhanh chóng</h2>
-                    <img src="images/tap-piltes.jpg" class="card-img-top" alt="...">
+                    <img src="assets/tap-piltes.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                       <p class="card-text">Một trong những căn bệnh ngày càng phổ biến, đặc biệt là dân văn phòng, đó là đau lưng, thoát vị đĩa đệm.
                         Tuy nhiên, nếu điều trị không đúng cách có thể dẫn đến nhiều biến chứng nguy hiểm, bao gồm: ví dụ, điều trị bằng laser không
