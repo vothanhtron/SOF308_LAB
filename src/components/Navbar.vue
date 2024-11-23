@@ -51,9 +51,78 @@
 
             </ul>
           </li>
-          <!-- <li class="nav-item"> 
-        <a class="nav-link disabled" href="/Lab2/Bai1">Lab </a>
-      </li> -->
+
+          <li class="nav-item dropdown">
+            <a
+              class="nav-link dropdown-toggle"
+              href="#"
+              role="button"
+              data-bs-toggle="dropdown"
+              aria-expanded="false"
+            >
+              Lab5
+            </a>
+            <ul class="dropdown-menu">
+              <li><a class="dropdown-item" href="/Lab5/Bai1">Bai1</a></li>
+              <li><a class="dropdown-item" href="/Lab5/Bai2">Bai2</a></li>
+              <li><a class="dropdown-item" href="/Lab5/Bai3">Bai3</a></li>
+              <li><a class="dropdown-item" href="/Lab5/App">Bai4</a></li>
+
+
+
+
+
+
+              
+
+            </ul>
+          </li>
+
+
+          <li class="nav-item dropdown">
+            <a
+              class="nav-link dropdown-toggle"
+              href="#"
+              role="button"
+              data-bs-toggle="dropdown"
+              aria-expanded="false"
+            >
+              Lab6
+            </a>
+            <ul class="dropdown-menu">
+              <li><a class="dropdown-item" href="/Lab6/Bai1">Bai1</a></li>
+              <li><a class="dropdown-item" href="/Lab6/Bai2">Bai2</a></li>
+              <li><a class="dropdown-item" href="/Lab6/Bai4">Bai4</a></li>
+
+
+              
+
+            </ul>
+          </li>
+          
+
+          <li class="nav-item dropdown">
+            <a
+              class="nav-link dropdown-toggle"
+              href="#"
+              role="button"
+              data-bs-toggle="dropdown"
+              aria-expanded="false"
+            >
+              ASM
+            </a>
+            <ul class="dropdown-menu">
+              <li><a class="dropdown-item" href="/ASM/Login">Đăng Nhập</a></li>
+              <li><a class="dropdown-item" href="/ASM/DangKy">Đăng Ký</a></li>
+              <li><a class="dropdown-item" href="/ASM/TrangChu">Trang Chủ</a></li>
+              
+
+              
+
+              
+            </ul>
+          </li>
+         
         </ul>
         <form class="d-flex" role="search">
           <input
